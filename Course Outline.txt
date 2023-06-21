@@ -1,0 +1,21 @@
+CSE110: Programming Language I
+Course Outline:
+
+	Week 1: Variables, Data types & Operators
+		Branching (if /else)
+	
+	Week 2: Iterations
+
+	Week 3: String
+
+	Week 4: List
+	
+	Week 5: Dictionary & Tuple
+
+	Week 6: Functions
+
+	Week 7: Sorting and Searching
+
+	Week 8 & Week 9: File I_O _ Exception
+
+	 
